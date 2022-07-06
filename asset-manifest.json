@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ddd400.css",
-    "main.js": "/static/js/main.11161774.js",
+    "main.css": "/static/css/main.4969d840.css",
+    "main.js": "/static/js/main.c3365455.js",
     "static/media/background.jpg": "/static/media/background.7c53d00c326988429b56.jpg",
     "static/media/book.jpg": "/static/media/book.c3e94a6ad35da78de615.jpg",
     "index.html": "/index.html",
     "static/media/magnifying-glass-solid.svg": "/static/media/magnifying-glass-solid.cd761af2e6d53d07ac6129e7f885fa95.svg",
-    "main.03ddd400.css.map": "/static/css/main.03ddd400.css.map",
-    "main.11161774.js.map": "/static/js/main.11161774.js.map"
+    "main.4969d840.css.map": "/static/css/main.4969d840.css.map",
+    "main.c3365455.js.map": "/static/js/main.c3365455.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ddd400.css",
-    "static/js/main.11161774.js"
+    "static/css/main.4969d840.css",
+    "static/js/main.c3365455.js"
   ]
 }
